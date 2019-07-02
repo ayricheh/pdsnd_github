@@ -8,7 +8,7 @@ BIKESHARE DATA
 Python script that analyse bikeshare data
 
 ### Files used
-Include the files used
+my_bike.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Ahmad Richeh
