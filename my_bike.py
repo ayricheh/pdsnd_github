@@ -1,4 +1,8 @@
+
 # Bikeshare project
+
+print"editing this for git project"
+>>>>>>> refactoring
 import pandas as pd
 import time
 
@@ -12,7 +16,7 @@ CITY_DATA = {'chicago': 'chicago.csv',
 
 
 def get_filters():
-    print("hellloooooooooooooooooooooos")
+    print("Welcome to Bikeshare analysis")
     print(cities)
 
     while True:
