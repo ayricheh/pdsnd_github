@@ -11,7 +11,7 @@ CITY_DATA = {'chicago': 'chicago.csv',
 
 
 def get_filters():
-    print("hellloooooooooooooooooooooos")
+    print("Welcome to Bikeshare analysis")
     print(cities)
 
     while True:
